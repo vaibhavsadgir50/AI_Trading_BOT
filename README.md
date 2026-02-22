@@ -1,15 +1,44 @@
-# AI_Trading_BOT
-# AI Trading Bot
+# 📈 AI Trading Bot (Deep Learning)
 
-This project is an AI-powered trading bot that analyzes stock market data and makes predictions.
+An experimental AI-driven trading model that uses LSTM neural networks to analyze historical market data and predict short-term trends.
 
-## Features
-- Uses machine learning to analyze market trends
-- Automatically places trades based on predictions
-- Supports multiple stock exchanges
+---
 
-## Installation
-1. Clone the repository:
-   bash
-   git clone https://github.com/vaibhavsadgir50/AI_Trading_BOT.git
-2. cd AI_Trading_BOT
+## 🧠 What This Project Demonstrates
+
+- Time-series forecasting using Deep Learning
+- Financial data preprocessing & feature engineering
+- LSTM-based predictive modeling
+- Model training and evaluation in Google Colab
+- End-to-end ML experimentation workflow
+
+---
+
+## 🚀 Run It Yourself (No Setup Needed)
+
+Click below to launch the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/vaibhavsadgir50/AI_Trading_BOT/blob/main/AI_Trading_BOT.ipynb)
+
+---
+
+## ⚙️ Tech Stack
+
+- Python
+- TensorFlow / Keras
+- Pandas / NumPy
+- Matplotlib
+- Google Colab
+
+---
+
+## 📊 Use Case
+
+This project explores how machine learning can assist in identifying short-term trading signals using historical patterns rather than rule-based strategies.
+
+---
+
+## 📌 Note
+
+This is a research/learning project — not financial advice or production trading software.
